@@ -1,0 +1,30 @@
+h1{
+  color: black;
+  font-family: Times New Roman;
+  text-align: center;
+  
+}
+
+h6{
+  font-family: Arial;
+  text-align: center;
+}
+a{
+  text-align: center;
+  margin-top: 2px;
+  border: 2px solid;
+  color: white;
+  padding: 10px;
+  font-family: Times New Roman;
+  font-weight: bold;
+  text-decoration: none;
+  border-color: pink;
+  background-color:purple;
+  
+  
+}
+ 
+ img{
+   border-radius: 50%;
+   border-color:red ;
+ }
